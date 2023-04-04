@@ -51,7 +51,7 @@ export const Login = () => {
               alignItems: "center",
             }}
           >
-            <h3>Login To CasualZone</h3>
+            <h3>Login To FreePik</h3>
           </div>
           <Box
             component="form"
