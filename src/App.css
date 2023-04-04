@@ -1,0 +1,98 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.productsWrapper {
+  margin-bottom: 15px !important;
+  margin-right: 15px !important;
+  margin-left: 15px !important;
+}
+.LoginWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.LoginWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+}
+.navbar-contain {
+  position: sticky;
+  top: 0;
+  width: -webkit-fill-available;
+  z-index: 1;
+}
+.link-logout svg {
+  color: white;
+}
+.link-logout span {
+  color: white;
+}
+.CartProducts {
+  margin-top: 1rem;
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  flex-wrap: wrap;
+}
+.CartProducts .MuiPaper-root {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+.card-tag {
+  margin-bottom: 1rem;
+}
+.dashboard-menu,
+.link-logout {
+  text-decoration: none !important;
+}
+
+.log-out {
+  text-decoration: none;
+}
+
+.log-out button {
+  text-decoration: none;
+}
+.LoginWrapper .MuiPaper-root {
+  height: 55vh;
+  width: 30%;
+}
+.LoginWrapper .MuiPaper-root div form div .MuiFormControl-root {
+  width: 100%;
+}
+.loginbtn button {
+  width: 65%;
+}
+.loginbtn {
+  margin-top: 2rem;
+}
+.LoginWrapper .MuiPaper-root .MuiCardContent-root .head {
+  background-color: wheat;
+  border-radius: 4px;
+}
+.LoginWrapper .MuiPaper-root div form {
+  margin-top: 1rem;
+}
+.productsWrapper div .MuiCardActions-root {
+  display: flex;
+  justify-content: space-between;
+}
+.error-email {
+  color: red;
+  font-size: 11px;
+  font-weight: 600;
+  margin-left: 1rem;
+}
+.no-produ {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-logo {
+  margin-right: 1rem;
+  color: white;
+  filter: invert(1);
+}
